@@ -1,0 +1,5 @@
+7amada,7amada,Admin
+tamer,tamer321,Customer
+10001,john123,Employee
+
+saif,hope123,Customer
